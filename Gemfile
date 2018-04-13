@@ -4,8 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7.1'
 # Use sqlite3 as the database for Active Record
- gem 'sqlite3', groups: %w(test development), require: false
- gem 'pg', groups: %w(production), require: false
+gem 'pg', '~> 0.18'
 gem 'rails-i18n'
 gem 'will_paginate','~>3.0'
 # Use SCSS for stylesheets
