@@ -6,7 +6,7 @@
 #
 default: &default
   adapter: postgresql
-  url: postgres://nwrgdxjtlulcai:0c3247c775abfb671d8149d96e5dc7515d63f00ab32ad3a5436b087ecfd77da8@ec2-54-235-193-34.compute-1.amazonaws.com:5432/d4utvfaljupcqo
+  url: postgres://gddwyycbzyobtt:08a047c07174cf7663563603af3f75ee221f0c7f9a60d5881d0af86651ce9789@ec2-50-16-196-238.compute-1.amazonaws.com:5432/d1vobvpitg5966
   pool: 5
   timeout: 5000
 
